@@ -7,6 +7,7 @@
 
 <body>
 <h1>123</h1>
+<h2 >13456</h2>
 <?php
 $server ="localhost";  //服务器IP地址,如果是本地，可以写成localhost
 $uid ="sa";  //用户名
